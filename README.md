@@ -12,8 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-page-QDN19J38Su)
+- Live Site URL: [Live Site](https://iagorivel0.github.io/qr-code-component/)
 
 ## My process
 
@@ -29,5 +29,5 @@ I'm currently studying JavaScript, and soon I'll start a project using JavaScrip
 
 ## Author
 
-- Website - [Iago Rivelo](https://www.your-site.com)
+- Website - [Iago Rivelo](https://iagorivel0.github.io/qr-code-component/)
 - Frontend Mentor - [@iagorivel0](https://www.frontendmentor.io/profile/iagorivel0)
